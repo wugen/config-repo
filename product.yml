@@ -5,3 +5,4 @@ eureka:
 spring:
   application:
     name: product
+label: branch
