@@ -5,3 +5,5 @@ eureka:
 spring:
   application:
     name: product
+env: 
+  test
